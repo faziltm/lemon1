@@ -25,15 +25,15 @@
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
     <plugin name="cordova-plugin-statusbar" />
-    <plugin name="org.apache.cordova.battery-status" />
-    <plugin name="org.apache.cordova.console" />
-    <plugin name="org.apache.cordova.device" />
-    <plugin name="org.apache.cordova.device-motion" />
-    <plugin name="org.apache.cordova.device-orientation" />
-    <plugin name="org.apache.cordova.dialogs" />
-    <plugin name="org.apache.cordova.globalization" />
-    <plugin name="org.apache.cordova.inappbrowser" />
-    <plugin name="org.apache.cordova.splashscreen" />
+    <plugin name="cordova-plugin-battery-status" />
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-device" />
+    <plugin name="cordova-plugin-device-motion" />
+    <plugin name="cordova-plugin-device-orientation" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-globalization" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-splashscreen" />
     <icon src="icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36-ldpi.png" />
     <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48-mdpi.png" />
