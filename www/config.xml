@@ -24,7 +24,7 @@
     <preference name="phonegap-version" value="cli-6.4.0" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
-    <gap:plugin name="org.apache.cordova.statusbar" source="npm" />
+    <gap:plugin name="org.apache.cordova.statusbar"/>
     <gap:plugin name="org.apache.cordova.battery-status" source="npm" />
     <gap:plugin name="org.apache.cordova.console" source="npm" />
     <gap:plugin name="org.apache.cordova.device" source="npm" />
